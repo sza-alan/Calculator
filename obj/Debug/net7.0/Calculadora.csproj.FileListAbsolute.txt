@@ -1,0 +1,15 @@
+C:\projetos\HelloWorld\HelloWorld\bin\Debug\net7.0\Calculadora.exe
+C:\projetos\HelloWorld\HelloWorld\bin\Debug\net7.0\Calculadora.deps.json
+C:\projetos\HelloWorld\HelloWorld\bin\Debug\net7.0\Calculadora.runtimeconfig.json
+C:\projetos\HelloWorld\HelloWorld\bin\Debug\net7.0\Calculadora.dll
+C:\projetos\HelloWorld\HelloWorld\bin\Debug\net7.0\Calculadora.pdb
+C:\projetos\HelloWorld\HelloWorld\obj\Debug\net7.0\Calculadora.csproj.AssemblyReference.cache
+C:\projetos\HelloWorld\HelloWorld\obj\Debug\net7.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\HelloWorld\HelloWorld\obj\Debug\net7.0\Calculadora.AssemblyInfoInputs.cache
+C:\projetos\HelloWorld\HelloWorld\obj\Debug\net7.0\Calculadora.AssemblyInfo.cs
+C:\projetos\HelloWorld\HelloWorld\obj\Debug\net7.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\projetos\HelloWorld\HelloWorld\obj\Debug\net7.0\Calculadora.dll
+C:\projetos\HelloWorld\HelloWorld\obj\Debug\net7.0\refint\Calculadora.dll
+C:\projetos\HelloWorld\HelloWorld\obj\Debug\net7.0\Calculadora.pdb
+C:\projetos\HelloWorld\HelloWorld\obj\Debug\net7.0\Calculadora.genruntimeconfig.cache
+C:\projetos\HelloWorld\HelloWorld\obj\Debug\net7.0\ref\Calculadora.dll
